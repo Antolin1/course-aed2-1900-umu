@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/divide-and-conquer/dataMergeSort.txt
+/divide-and-conquer/dataMergeSortSorted.txt
+/divide-and-conquer/dataQuickSort.txt
+/divide-and-conquer/dataQuickSortSorted.txt
+/divide-and-conquer/maximumSubsequence.txt
