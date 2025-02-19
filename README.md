@@ -31,12 +31,15 @@ jupyter-lab
 
 ## Cronograma
 
-| Semana | Dentro del repositorio                                                                                                                                                                              | Correspondencia diapositivas  |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| 24 Feb | [multiplicación_enteros](divide-and-conquer/multiplication)<br/>[algoritmos de ordenación](divide-and-conquer/sorting_algorithms)<br/>[máxima subsequencia](divide-and-conquer/maximum_subsequence) | 22-29<br/>35-44<br/>no aplica |
-|        |                                                                                                                                                                                                     |                               |
-|        |                                                                                                                                                                                                     |                               |
-|        |                                                                                                                                                                                                     |                               |
+Lo que hacemos cada semana se pondrá en esta tabla con su respectiva correspondencia a las diapositivas del aula virtual. 
+Si un apartado no tiene link, eso significa que no hay material dentro del repositorio.
+
+| Semana | Apartados                                                                                                                                                                            | Correspondencia diapositivas                           |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| 24 Feb | [DyV: multiplicación enteros](divide-and-conquer/multiplication)<br/>DyV: multiplicación de matrices<br/>[DyV: algoritmos de ordenación](divide-and-conquer/sorting_algorithms)<br/> | Tema 2: 22-29<br/>Tema 2: 30-34<br/>Tema 2: 35-44<br/> |
+| 3 Mar  | DyV: el derbi<br/>[DyV: máxima subsequencia](divide-and-conquer/maximum_subsequence)                                                                                                 | Tema 2: 45<br/>Tema 2: no aplica                       |
+|        |                                                                                                                                                                                      |                                                        |
+|        |                                                                                                                                                                                      |                                                        |
 
 
 
