@@ -34,12 +34,12 @@ jupyter-lab
 Lo que hacemos cada semana se pondrá en esta tabla con su respectiva correspondencia a las diapositivas del aula virtual. 
 Si un apartado no tiene link, eso significa que no hay material dentro del repositorio.
 
-| Semana | Apartados                                                                                                                                                                                              | Correspondencia diapositivas                                |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| 24 Feb | [DyV: multiplicación enteros + teorema maestro](divide-and-conquer/multiplication)<br/>DyV: multiplicación de matrices<br/>[DyV: algoritmos de ordenación](divide-and-conquer/sorting_algorithms)<br/> | Tema 2: 22-29 + 19<br/>Tema 2: 30-34<br/>Tema 2: 35-44<br/> |
-| 3 Mar  | DyV: el derbi<br/>[DyV: máxima subsequencia](divide-and-conquer/maximum_subsequence)                                                                                                                   | Tema 2: 45<br/>Tema 2: no aplica                            |
-|        |                                                                                                                                                                                                        |                                                             |
-|        |                                                                                                                                                                                                        |                                                             |
+| Semana | Apartados                                                                                                                                                                                                                         | Correspondencia diapositivas                                          |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| 24 Feb | [DyV: multiplicación enteros + teorema maestro](divide-and-conquer/multiplication)<br/>DyV: multiplicación de matrices<br/>[DyV: algoritmos de ordenación](divide-and-conquer/sorting_algorithms)<br/>                            | Tema 2: 19-26 + 16<br/>Tema 2: 27-31<br/>Tema 2: 33-39<br/>           |
+| 3 Mar  | [DyV: problema de selección](divide-and-conquer/sorting_algorithms)<br/> DyV: el derbi<br/>[DyV: máxima subsequencia](divide-and-conquer/maximum_subsequence)<br/>[Alg. voraces: intro y mochila](greedy/greedy_presentacion.pdf) | Tema 2: 40-43<br/>Tema 2: 45<br/>Tema 2: 44<br/>Tema 3: ~ 20 primeras |
+|        |                                                                                                                                                                                                                                   |                                                                       |
+|        |                                                                                                                                                                                                                                   |                                                                       |
 
 
 
