@@ -31,7 +31,7 @@ jupyter-lab
 
 ## Prácticas - Programación dinámica (dirigido a mis subgrupos)
 
-Los podéis encontrar [aquí](dp/programacion_dinamica_problemas.pdf) los problemas que vamos a resolver en clase (si nos da tiempo). Por otro lado,
+Podéis encontrar [aquí](dp/programacion_dinamica_problemas.pdf) los problemas que vamos a resolver en clase (si nos da tiempo). Por otro lado,
 las implementaciones de los algoritmos están en los notebooks de [esta carpeta](dp).
 Para sacar una buena nota en el parcial de PD es imprescindible que sepáis lo siguiente:
 1. Dado un problema de dificultad "media", sacar la ecuación de recurrencia
