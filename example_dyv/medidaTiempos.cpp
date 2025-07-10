@@ -34,28 +34,25 @@ double medirTiempo(const std::vector<int>& secuencia, const std::string& descrip
     auto end = std::chrono::high_resolution_clock::now();
     std::chrono::duration<double, std::milli> duracion = end - start;
 
-    std::cout << descripcion << " - Longitud: " << secuencia.size()
-              << " → Resultado: " << resultado
-              << " | Tiempo: " << duracion.count() << " ms\n";
-
     return duracion.count();
 }
 
 int main() {
-    vector<int> longitudes = {10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20};
+    std::vector<int> longitudes;
+    for (int x = 50000; x <= 1000000; x += 50000) {
+        longitudes.push_back(x);
+    }
     std::ofstream csv("resultados.csv");
     csv << "Longitud,MejorCaso,PeorCaso\n";
 
-    for (int n : longitudes) {
-        int longitud = pow(2, n);  // Longitud de la secuencia
+    for (int longitud : longitudes) {
         auto mejorCaso = generarMejorCaso(longitud);
         auto mejorTiempo = medirTiempo(mejorCaso, "Mejor caso");
 
         auto peorCaso = generarPeorCaso(longitud);
         auto peorTiempo = medirTiempo(peorCaso, "Peor caso");
-
-        std::cout << "---------------------------\n";
-        csv << n << "," << mejorTiempo << "," << peorTiempo << "\n";
+        
+        csv << longitud << "," << mejorTiempo << "," << peorTiempo << "\n";
     }
 
     csv.close();

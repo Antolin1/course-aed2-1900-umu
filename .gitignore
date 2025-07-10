@@ -178,3 +178,5 @@ cython_debug/
 /divide-and-conquer/maximum_subsequence/mejorcaso.txt
 /divide-and-conquer/maximum_subsequence/peorcaso.txt
 
+/example_dyv/medidaTiempos
+/example_dyv/resultados.csv
